@@ -1,0 +1,1 @@
+ALTER TABLE Medias CHANGE id_usuario usuarioId bigint;
