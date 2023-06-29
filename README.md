@@ -2,7 +2,7 @@
 CRUD de usuários com SPRING BOOT, flyway, lombok e usando DTO.
 No caminho resources/db/migration tem a criação do banco de dados, incluindo alguns testes que eu fiz para me familiarizar com o uso do flyway.
 
-O GET, POST, PUT e DELETE. eu usei o Insomnia vou deixar aqui a url das requisições e 2 json de modelo:
+O GET, POST, PUT e DELETE. eu usei um banco localhost e o Insomnia, vou deixar aqui a url das requisições e 2 json de modelo:
 
 POST
 http://localhost:8080/usuarios
